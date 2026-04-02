@@ -1,1 +1,3 @@
-Для каждого проекта README внутри https://github.com/Vilagcraft/Machine-Learning-Methods-Kuzmin-/tree/main/project1
+У каждого проекта внутри есть README с инструкцией по запуску и ответами на вопросы
+
+Для первого проекта https://github.com/Vilagcraft/Machine-Learning-Methods-Kuzmin-/tree/main/project1
