@@ -6,7 +6,7 @@
 Простая реализация ассоциативной памяти на основе рекуррентной нейронной сети (SimpleRNN).  
 Модель обучается на 10 эталонных бинарных изображениях размером 10×10 пикселей (крест, рамка, полосы, шахматная доска, диагональ, круг, буква T, уголок, зигзаг) и способна восстанавливать зашумлённую версию как эталонного, так и любого пользовательского изображения.
 
-![https://github.com/Vilagcraft/Machine-Learning-Methods-Kuzmin-/blob/main/project_3/demo/Figure_2.png](figure_2.png)
+[figure_2.png](https://github.com/Vilagcraft/Machine-Learning-Methods-Kuzmin-/blob/main/project_3/demo/Figure_2.png)
 
 ## Возможности
 
