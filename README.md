@@ -2,3 +2,4 @@
 
 - Первый проект https://github.com/Vilagcraft/Machine-Learning-Methods-Kuzmin-/blob/main/project1/README.md
 - Второй проект https://github.com/Vilagcraft/Machine-Learning-Methods-Kuzmin-/blob/main/project2/README.md
+- Третий проект https://github.com/Vilagcraft/Machine-Learning-Methods-Kuzmin-/blob/main/project_3/README.md
