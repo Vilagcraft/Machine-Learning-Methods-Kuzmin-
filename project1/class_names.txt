@@ -1,4 +1,0 @@
-birds
-cats
-dogs
-fish
